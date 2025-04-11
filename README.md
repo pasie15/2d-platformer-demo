@@ -2,7 +2,7 @@
 
 A simple 2D platformer game demo built with HTML5 Canvas, CSS, and JavaScript.
 
-![Game Screenshot](platformer-character-demo.png)
+![image](https://github.com/user-attachments/assets/b5d680ef-166f-4be1-a82c-b424b6a90fbd)
 
 ## Description
 
